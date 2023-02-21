@@ -7,4 +7,5 @@ public class Sec {
     }
 
     public void comA(){}
+    public void comB(){}
 }
