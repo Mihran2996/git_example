@@ -6,4 +6,6 @@ public class main {
     public void methFirst(){
         System.out.println("first");
     }
+
+    public void A(){}
 }
