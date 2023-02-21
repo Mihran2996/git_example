@@ -9,5 +9,4 @@ public class main {
 
     public void A(){}
     public void B(){}
-    public void C(){}
 }
