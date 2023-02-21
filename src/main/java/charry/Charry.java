@@ -5,5 +5,4 @@ public class Charry {
     private int b;
 
     private int a1;
-    private int a2;
 }
