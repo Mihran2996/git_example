@@ -18,5 +18,6 @@ public class ScanerExample {
         String password = scanner.nextLine();
         System.out.println("Please input your phone number");
         String phoneNumber = scanner.nextLine();
+        System.out.println("-------------------");
     }
 }
