@@ -10,5 +10,7 @@ public class ScanerExample {
         String name = scanner.nextLine();
         System.out.println("Please input surname");
         String surname = scanner.nextLine();
+        System.out.println("Please input age");
+        int age = Integer.parseInt(scanner.nextLine());
     }
 }
