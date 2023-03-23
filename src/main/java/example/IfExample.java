@@ -1,3 +1,5 @@
+package example;
+
 public class IfExample {
     public static int number = 50;
 
