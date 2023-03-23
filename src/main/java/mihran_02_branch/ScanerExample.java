@@ -19,5 +19,6 @@ public class ScanerExample {
         System.out.println("Please input your phone number");
         String phoneNumber = scanner.nextLine();
         System.out.println("-----------------------");
+        System.out.println("-------------------");
     }
 }
