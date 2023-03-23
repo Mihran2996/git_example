@@ -8,5 +8,7 @@ public class ScanerExample {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please input name");
         String name = scanner.nextLine();
+        System.out.println("Please input surname");
+        String surname = scanner.nextLine();
     }
 }
