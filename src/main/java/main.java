@@ -4,5 +4,4 @@ public class main {
         System.out.println("change from Mihran2");
         System.err.println("change from Misha");
     }
-
 }
